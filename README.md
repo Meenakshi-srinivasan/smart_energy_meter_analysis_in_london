@@ -1,4 +1,4 @@
-# smart_energy_meter_analysis_in_london
+# Predicting Energy consumption using Smart meters in London
 
 In this notebook, we aim to analyse and forecast the energy consumption of London households by leveraging weather and bank holidays as key factors from the period November 2011 to February 2014. 
 
