@@ -6,7 +6,7 @@ CRISP-DM is followed throughout the analysis for structured and organised approa
 
 # Dataset
 
-Energy consumption, weather observations and UK bank holidays data are available as Public data and it is retrieved from Kaggle(https://www.kaggle.com/jeanmidev/smart-meters-in-london). 
+Energy consumption, weather observations and UK bank holidays data are available as Public data and it is retrieved from Kaggle(https://www.kaggle.com/jeanmidev/smart-meters-in-london). The dataset author has taken energy consumption data from UK Government Open data portal and the weather data was retrieved from Darksky API and given it in a single compressed file format for research purposes.
 
 Energy consumption data is split into 112 files representing 112 blocks of households in London and contains daily energy consumption of each household. Weather data has daily weather observations for the period November 2011 to February 2014. 
 
